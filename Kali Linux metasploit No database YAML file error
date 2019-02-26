@@ -6,4 +6,5 @@ root@kali:~# msfconsole
 [-] ***
 
 
-*Solution: after starting metsplpot run this commnd "msfdb init"
+## Solution: 
+after starting metsplpot run this commnd "msfdb init"
