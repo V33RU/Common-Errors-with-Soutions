@@ -1,0 +1,9 @@
+
+## Kali Linux metasploit error 
+root@kali:~# msfconsole 
+[-] ***rting the Metasploit Framework console...\
+[-] * WARNING: No database support: No database YAML file
+[-] ***
+
+
+*Solution: after starting metsplpot run this commnd "msfdb init"
